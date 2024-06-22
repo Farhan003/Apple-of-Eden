@@ -1,1 +1,6 @@
-# Apple-of-Eden
+# apple-of-eden
+-------------------
+
+game of snake in java
+
+
